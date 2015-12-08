@@ -1,6 +1,22 @@
+.apple-image {
+  padding-top: 20px;
+}
+
 .big-image {
   background-image: url('../images/big-image.jpg');
   background-position: center center;
   background-size: cover;
   height: 380px;
+}
+
+#rcorners2 {
+    border-radius: 25px;
+    border: 2px solid #c0c0c0;
+    padding: 3px; 
+    width: 200px;
+    height: 200px; 
+}
+
+p {
+  padding-top: 20px;
 }
