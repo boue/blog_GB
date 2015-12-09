@@ -1,5 +1,8 @@
 .apple-image {
-  padding-top: 20px;
+  padding: 20px;
+  position: absolute;
+  top:25%;
+     right:20%;
 }
 
 .big-image {
@@ -10,14 +13,23 @@
 }
 
 #rcorners2 {
-    border-radius: 25px;
-    border: 2px solid #c0c0c0;
-    padding: 3px; 
-    width: 290px;
-    height: 220px; 
+  border-radius: 25px;
+  border: 2px solid #c0c0c0;
+  padding: 3px; 
+  width: 290px;
+  height: 220px; 
+}
+
+#job-description {
+  vertical-align:middle;
+}
+
+#job-template{
+  position:relative;
 }
 
 p {
   font-family: 'Playfair Display', serif;
+  font-size: 15px;
   padding-top: 20px;
 }
