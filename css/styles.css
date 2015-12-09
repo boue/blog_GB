@@ -26,6 +26,9 @@
 
 #job-template{
   position:relative;
+  border-bottom-style: outset;
+  border-width: medium;
+  padding: 5px 0px 20px 0px;
 }
 
 p {
