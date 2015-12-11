@@ -12,6 +12,10 @@
   right:20%;
 }
 
+#company-desc {
+ padding: 20px 0px 60px 0px;
+}
+
 #job-description {
   vertical-align: middle;
 }
